@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part I Modifications
+=============
+* Added links to css for each html file
+* Assigned class="bold" to table of contents
+* Assigned class="book" to story text
 
