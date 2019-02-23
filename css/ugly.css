@@ -1,0 +1,116 @@
+body {
+    font-family: "Comic Sans MS";
+    padding: 0;
+    margin: 0;
+    background-color: #e83875;
+}
+
+div.banner {
+    background-image: linear-gradient(#A0D1EF, #0680CC);
+    z-index: -1;
+    text-align: right;
+}
+
+div.wood {
+    background-image: url(../img/sweater.png);
+    background-repeat: repeat-x;
+    box-shadow: 0px 5px 10px #4e4d4d;
+}
+
+div.menu{
+    background-image: linear-gradient(#f76a6a, #8efffb, #fdfd92);
+    padding: 5px;
+    border-bottom: 3px solid #5296e5;
+    
+}
+
+div.bodyleft {
+    background-image: radial-gradient(#e9ede5, #360a0a);
+    border-radius: 20px;
+}
+
+div.bodyright {
+    background-color: #b55cc1;
+}
+
+
+
+td.menuitem {
+    text-align: center;
+    color: #120a6d;
+    width: 17%;
+    padding: 2px;
+}
+
+td.menuitem:hover {
+    color: yellow
+}
+
+td.name {
+    text-align: right; 
+    width:70%; 
+    font-size: 75px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    color: #52ff06;
+    text-shadow: 3px 3px 5px blue;
+}
+
+td.bodyleft{
+    padding: 20px;
+    width: 70%;
+    vertical-align: top;
+    color: yellow;
+    font-variant-caps: small-caps;
+}
+
+td.bodyright{
+    padding: 30px;
+    vertical-align: top;
+}
+
+p.skills {
+    padding-bottom: 10px;
+    font-size: 14px;
+    font-style: italic;
+    color: pink;
+    font-variant-caps: small-caps;
+}
+
+img.me {
+    width: 80%;
+    padding: 10px;
+    width: 284px;
+    
+}
+
+img.bodyleft {
+  width: 284px;
+  padding: 5px 10px 20px 7px;
+  border: 8px dotted #9f1cff;
+  background-color: yellow;
+  box-shadow: 10px 10px 100px #91ff41;
+border-radius: 20px;
+}
+
+table.bodyleft {
+    padding-bottom: 40px;
+}
+
+h1, h2 {
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
+    color: aqua;
+}
+
+
+h3 {
+    font-family: cursive;
+    color: #8a9db7;
+}
+
+a {
+    color: #466289;
+}
+
+
